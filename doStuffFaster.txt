@@ -1,4 +1,4 @@
 doStuffFaster
 This is a fabulous second function within the project.
 Here is the super fast new function:
-	blah, blah, blah...
+	this is the fixed implementation as at 26/03/20.
